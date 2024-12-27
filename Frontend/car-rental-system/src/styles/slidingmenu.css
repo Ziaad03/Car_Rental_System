@@ -1,0 +1,8 @@
+.Sliding-Menu {
+  width: 30%;
+}
+
+.login-options {
+  display: flex;
+  flex-direction: row;
+}
