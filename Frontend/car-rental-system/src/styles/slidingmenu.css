@@ -6,3 +6,23 @@
   display: flex;
   flex-direction: row;
 }
+
+button {
+  cursor: pointer;
+}
+
+img {
+  width: 30px;
+  height: auto;
+}
+
+.admin-button {
+  border-right: 1px solid #ffffff;
+}
+
+.option-btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
